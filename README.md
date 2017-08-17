@@ -5,6 +5,7 @@ These are the exercise files used for [Sketchup Essential Training](https://www.
 
 The course outline can be found in 
 https://www.tertiarycourses.com.sg/sketchup-essential-training.html
+https://www.tertiarycourses.com.my/sketchup-essential-training-in-malaysia.html
 
 <p><strong>Module 1: Get Ready</strong></p>
 <ul>
